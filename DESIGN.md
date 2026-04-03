@@ -31,4 +31,4 @@
 - **Outline:** `#707a6a`
 
 ## Notes
-> **Note**: These values were extracted from the "Kenya Skill Marketplace" project, as the "LaunchPad" project could not be found in your Stitch workspace.
+> **Note**: These values were extracted from the "Kenya Skill Marketplace" project, as the "LaunchPad" 

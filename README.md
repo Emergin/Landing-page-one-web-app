@@ -1,16 +1,25 @@
-# React + Vite
+Kenya Skill Marketplace - SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, mobile-responsive landing page for a digital marketplace connecting skilled informal workers in Kenya with customers, designed to formalize the informal economy.
 
-Currently, two official plugins are available:
+🎨 Design System
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Typography
+Display & Headlines: Plus Jakarta Sans
+Body & Labels: Inter
+Color Palette
+Primary: #004b00 (Deep Green)
+Primary Container: #006600
+On Primary: #ffffff
+Secondary: #705d00 (Golden Yellow)
+Secondary Container: #fcd400
+On Secondary: #ffffff
+Background: #f8f9fa
 
-## React Compiler
+✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Hero Section: Clear value proposition with a search bar and "Find a Worker" CTA.
+3-Column Features Grid: Highlights benefits for Workers, Customers, and Secure M-Pesa Payments.
+Glassmorphism Pricing Table: Displays subscription tiers for premium worker profiles.
+Language Toggle: Switch between English and Swahili.
+Mobile-First: Fully responsive design for all devices.
